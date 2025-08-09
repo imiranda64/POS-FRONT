@@ -2,7 +2,7 @@ export const environment = {
   production: true,
   environment: "prod",
   clientId:
-    "441710587933-o28p6ici53uclbea0rjveo6gcdvkuaes.apps.googleusercontent.com",
+    "754838360448-m5ujif3mclikif2sti2hoocu2r4ltubp.apps.googleusercontent.com",
   api: "https://tu-api-productiva.com/api/",
   filenameCsv: "prod-pos",
 };
